@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {font-family: Comic Sans MS, Verdana,Tahoma,Arial,Helvetica,sans-serif;;
+}
+/*Left block */
+
+#td {
+border-radius: 10px;
+}
+#table {
+border-radius: 10px;
+}
+
+/*links*/
+A {
+ color: #000000; /* Цвет ссылок */
+}
+A:visited {
+ color: #9966CC; /* Цвет посещенных ссылок */
+}
+A:active {
+ color: #FF0000; /* Цвет активных ссылок */
+}
+/*all tables*/
+
+td {
+border-radius: 20px;
+}
+table {
+border-radius: 20px;
+}
+
+/* output structures*/
+#td1 {
+border-radius: 10px;
+}
+#table1 {
+border-radius: 10px;
+}
+
+/*output components*/
+center {
+font: normal 0.7em/1.5em Arial, Helvetica, sans-serif;
+color: #000000;
+}
+
+#comp {
+font: normal 0.7em/1.5em Arial, Helvetica;
+color: #000000;
+font-weight: bold;
+background-position:center;
+vertical-align:middle;
+text-align:center;
+border-radius: 0px;
+}
+#men1 {
+font: normal 0.7em/1.5em Arial, Helvetica, sans-serif;
+border-radius: 10px;
+color: #FFFFFF;
+font-weight: bold;
+background-position:center;
+vertical-align:middle;
+text-align:center;
+}
+
+#shab {
+font: normal 1.0em/1.5em Arial, Helvetica, sans-serif;
+border-radius: 20px;
+color: #000000;
+font-weight: bold;
+background-position:center;
+vertical-align:middle;
+text-align:center;
+background-color: #CC99FF;
+}
+/* end of output components */

@@ -1,0 +1,1 @@
+<img name = "knopka" border=0 SRC = "img/button_to_shablon/button_to_shablon.png">

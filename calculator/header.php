@@ -1,0 +1,1 @@
+<a href="index.php"><img height="230" src="img/header/header.jpg" title="На главную" /></a>

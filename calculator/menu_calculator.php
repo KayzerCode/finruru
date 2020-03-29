@@ -1,0 +1,1 @@
+<img src="img/menu_calculator/menu_item_calc.png" />

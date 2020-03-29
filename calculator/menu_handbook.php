@@ -1,0 +1,1 @@
+<img src="img/menu_handbook/menu_item_handbook.png" />

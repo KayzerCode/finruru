@@ -1,0 +1,1 @@
+<img name = "knopka" border=0 SRC = "img/button_to_edit_room/button_to_edit_room.png">

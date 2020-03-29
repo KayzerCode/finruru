@@ -1,0 +1,95 @@
+.adres {  color: #FFFFFF}
+td {  font: 11px Verdana, Arial, Helvetica, sans-serif, Tahoma; color: #666666}
+.tenybg {  background: url(img/prv_kry_teny.gif) repeat-y}
+.zgl1s {  font-weight: bold; color: #FFFFFF; font-size: 14px}
+.pip1 { padding: 3px 0px 0px }
+.linkmenu1 {  color: #FFFFFF; text-decoration: none; font-size: 9px; font-weight: bold}
+.linkmenu2 { font: bold 11px Arial, Helvetica, sans-serif; color: #A71128; text-decoration: none }
+a.linkmenu1:hover {  color: #FF9900; text-decoration: none}
+a.linkmenu2:hover {  color: #0066CC; text-decoration: none}
+.zglnew {  color: #336699; font-weight: bold}
+.toplink1 {  font-weight: bold; color: #FFFFFF; text-decoration: none; font-size: 10px}
+a.toplink1:hover {  color: #6A7093}
+.collapsed {display:none}.plsv1 {  background: url(img/pls_v_01.gif) repeat-y  center}
+.usual { background: url(img/pls_g_01.gif) repeat-x  center}
+.plsg2 { background: url(img/pls_g_02.gif) repeat-x center}
+.js {  text-align: justify}
+.zgl1 {  font: bold 13px Arial, Helvetica, sans-serif; color: #FFFFFF}
+.formprice1 {  font: 11px Verdana, Arial, Helvetica, sans-serif; color: #666666; border: 1px #999999 solid; width: 274px}
+.plsv2 { background: url(im/pls_v_01.gif) repeat-y}
+.formzakaz { font: bold 10px Verdana, Arial, Helvetica, sans-serif; color: #FFFFFF; border: 1px solid; height: 19px; border-color: #000000 #CCCCCC #CCCCCC #000000; background: #9A9BAB; text-align: center}
+.linktxt1 {  color: #0066CC; text-decoration: none}
+a.linktxt1:hover {  color: #C89D73}
+.plsv01 {  background: url(img/pls_v_01.gif) repeat-y  center}
+.link2 {  color: #000000; text-decoration: none}
+a.link2:hover {  color: #FFFFFF; text-decoration: none}
+.link3 { color: #000000; text-decoration: none }
+a.link3:hover { color: #FF9933; text-decoration: none }
+.form2 { font: bold 11px Arial, Helvetica, sans-serif; color: #333333; border: 1px #CCCCCC solid; height: 19px; background: #FFFFFF; text-align: center}
+.form3 { font: bold 14px Arial, Helvetica, sans-serif; color: #003366; border: #FFFFFF solid; background: #FFFFFF }
+.form4 { font: 11px Verdana, Arial, Helvetica, sans-serif; color: #333333; border: #FFFFFF solid; background: #FFFFFF }
+
+
+
+
+#modernbricksmenu{
+padding: 0;
+width: 100%;
+background: transparent;
+voice-family: "\"}\"";
+voice-family: inherit;
+}
+
+#modernbricksmenu ul{
+font: bold 11px Arial;
+margin:0;
+margin-left: 40px; /*margin between first menu item and left browser edge*/
+padding: 0;
+list-style: none;
+}
+
+#modernbricksmenu li{
+display: inline;
+margin: 0 2px 0 0;
+padding: 0;
+/*text-transform:uppercase; */
+}
+
+#modernbricksmenu a{
+float: left;
+display: block;
+color: white;
+margin: 0 1px 0 0; /*Margin between each menu item*/
+padding: 5px 10px;
+text-decoration: none;
+letter-spacing: 1px;
+background-color: #003399; /*Default menu color*/
+border-bottom: 1px solid white;
+}
+
+#modernbricksmenu a:hover{
+background-color: gray; /*Menu hover bgcolor*/
+}
+
+#modernbricksmenu #current a{ /*currently selected tab*/
+background-color: #A71128; /*Brown color theme*/ 
+border-color: #A71128; /*Brown color theme*/ 
+}
+
+#modernbricksmenuline{
+clear: both;
+padding: 0;
+width: 100%;
+height: 5px;
+line-height: 5px;
+background: #A71128; /*Brown color theme*/ 
+}
+#modernbricksmenuline1{
+clear: both;
+padding: 0;
+width: 50%;
+height: 15px;
+line-height: 15px;
+background: #A71128; /*Brown color theme*/ 
+}
+

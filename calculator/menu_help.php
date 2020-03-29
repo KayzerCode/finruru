@@ -1,0 +1,1 @@
+<img src="img/menu_help/menu_item_help.png" />
